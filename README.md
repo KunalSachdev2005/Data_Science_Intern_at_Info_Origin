@@ -11,4 +11,5 @@ Repository for my projects as Data Science Intern at Info Origin Inc.
    - Observed model behavior across various batch sizes, epochs, and learning rates
    - Optimized model hyperparameters with **bayesian optimizaiton**.
    - Highest Accuracy - **96.4%**
+
 2. 
