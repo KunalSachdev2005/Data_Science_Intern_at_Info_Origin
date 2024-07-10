@@ -12,4 +12,5 @@ Repository for my projects as Data Science Intern at Info Origin Inc.
    - Optimized model hyperparameters with **bayesian optimizaiton**.
    - Highest Accuracy - **96.4%**
 
+
 2. 
