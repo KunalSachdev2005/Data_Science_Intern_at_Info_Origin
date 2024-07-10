@@ -12,4 +12,8 @@ Repository for my projects as Data Science Intern at Info Origin Inc.
    - Optimized model hyperparameters with **bayesian optimizaiton**.
    - Highest Accuracy - **96.4%**
 <br>
-2. 
+2. **Fine-tuning LLMs for Sentiment Analysis on SST-5**
+   - Fine-tuned various language models like DeBERTa, RoBERTa, ERNIE, DistilBERT, BERT, and GPT-2 for sentiment analysis on the SST-5 dataset.
+   - Loaded the SST-5 dataset using `datasets` library.
+   - Tokenized all the examples in the dataset using corresponding tokenizer for the model.
+   - 
