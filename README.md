@@ -19,3 +19,5 @@ Repository for my projects as Data Science Intern at Info Origin Inc.
    - Implemented Bayesian Optimization with **scikit-optimize**.
    - Due to computational resource limitations, I could only fully run optimization for DistilBERT and ERNIE.
    - Achieved the highest accuracy of **52.71%** with the optimized ERNIE model (highest-to-date: 59.8%)
+   - [File](https://github.com/KunalSachdev2005/Data_Science_Intern_at_Info_Origin/blob/main/SST5_ERNIE.ipynb)
+
