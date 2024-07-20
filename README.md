@@ -12,7 +12,7 @@ Repository for my projects as Data Science Intern at Info Origin Inc.
    - Preprocessed articles with **stemming** and **lemmatization**.
    - Tokenized articles using **RoBERTa tokenzier**.
    - Accuracy - **98%**
-   - [Notebook](https://github.com/KunalSachdev2005/Data_Science_Intern_at_Info_Origin/)
+   - [Notebook](https://github.com/KunalSachdev2005/Data_Science_Intern_at_Info_Origin/blob/main/BBC_News_Articles_Classification_RoBERTa_with_Enriched_Vocab_Layer.ipynb)
 
 2. **BBC News Articles Classification using Google's NNLM & Custom Neural Network**
    - Developed a custom neural network architecture from scratch for BBC News Articles Classification.
