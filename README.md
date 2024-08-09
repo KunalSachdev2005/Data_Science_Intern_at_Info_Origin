@@ -22,8 +22,15 @@ Repository for my work as Data Science Intern at Info Origin Inc.
    - Tokenized articles using **RoBERTa tokenzier**.
    - Accuracy - **98%**
    - [Notebook](https://github.com/KunalSachdev2005/Data_Science_Intern_at_Info_Origin/blob/main/BBC_News_Articles_Classification_RoBERTa_with_Enriched_Vocab_Layer.ipynb)
+  
+3. **Named Entity Recognition for Job Descriptions**
+   - Annotated Job Descirptions with custom entities using **Doccano**.
+   - Trained a **custom spaCy NER model** to recognize entities like Education, Role, Tools & Tech, etc..
+   - Developed a **Streamlit** app for real-time entity recognition.
+   - Integrated displaCy for enhanced visualization of annotated text and potential HR tool integration for efficient job parsing.
+   - [Notebook](https://github.com/KunalSachdev2005/Data_Science_Intern_at_Info_Origin/blob/main/BBC_News_Articles_Classification_RoBERTa_with_Enriched_Vocab_Layer.ipynb)
 
-3. **Fine-tuning LLMs for Sentiment Analysis on SST-5**
+4. **Fine-tuning LLMs for Sentiment Analysis on SST-5**
    - Fine-tuned various language models like **DeBERTa, RoBERTa, ERNIE, DistilBERT, BERT, and GPT-2** for sentiment analysis on the SST-5 dataset.
    - Loaded the SST-5 dataset using the **datasets library**.
    - Tokenized all the examples in the dataset using corresponding tokenizer for the model.
