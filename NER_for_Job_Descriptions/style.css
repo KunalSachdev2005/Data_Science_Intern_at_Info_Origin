@@ -1,0 +1,71 @@
+.main {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: black;
+    width: 100%;
+    box-sizing: border-box;
+}
+.stButton button {
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+    transition: transform 0.2s ease;
+}
+.stButton button:hover {
+    background-color: #0056b3;
+    color: white;
+}
+
+.stButton button:focus {
+    color: white;
+    background-color: #007BFF;
+}
+
+.stButton button:active {
+    transform: scale(0.95);
+    background-color: #004085;
+    color: white;
+}
+.stTextArea textarea {
+    background-color: #f0f2f6;
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+    padding: 10px;
+    color: black;
+    caret-color: black;
+    width: 100%;
+    box-sizing: border-box;
+}
+.stTextArea textarea:focus {
+    border: 1px solid #007bff;
+}
+.tab-container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.tab {
+    padding: 10px 20px;
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.tab.active {
+    background-color: #007bff;
+    color: white;
+}
+.stTitle {
+    color: black;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.annotated-text {
+    color: black;
+    width: 100%;
+    box-sizing: border-box;
+}
