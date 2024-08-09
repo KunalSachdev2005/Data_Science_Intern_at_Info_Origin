@@ -18,7 +18,7 @@ Repository for my work as Data Science Intern at Info Origin Inc.
    - Annotated Job Descirptions with custom entities using **Doccano**.
    - Trained a **custom spaCy NER model** to recognize entities like Education, Role, Tools & Tech, etc..
    - Developed a **Streamlit** app for real-time entity recognition.
-   - Integrated displaCy for enhanced visualization of annotated text and potential HR tool integration for efficient job parsing.
+   - Integrated **displaCy** for enhanced visualization of annotated text and potential HR tool integration for efficient job parsing.
    - [Notebook](https://github.com/KunalSachdev2005/Data_Science_Intern_at_Info_Origin/blob/main/BBC_News_Articles_Classification_RoBERTa_with_Enriched_Vocab_Layer.ipynb)
   
 3. **BBC News Articles Classification - RoBERTa with Enriched Vocabulary Layer**
